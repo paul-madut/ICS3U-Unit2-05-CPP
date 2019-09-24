@@ -1,6 +1,6 @@
 // Copyright (c) 2019 St. Mother Teresa HS All rights reserved.
 //
-// Created by: Mr. Coxall
+// Created by: Paul M
 // Created on: Sep 2019
 // This program shows how local and global variables work
 
